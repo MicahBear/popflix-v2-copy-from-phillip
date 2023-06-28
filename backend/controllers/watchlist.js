@@ -66,4 +66,6 @@ module.exports = {
 
 
 
-// showing for changes to in local respository to remote.
+// showing for changes to local respository and push to remote.
+// ask every one to create sep branch after they clone
+// 1+1 = 2
